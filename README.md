@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Tampermonkey-emojicons.user.js-0a6b00)](https://github.com/abernier/emojicons/raw/master/emojicons.user.js)
+
 Customize any website's favicon with an emoji!
 
 # Usage
