@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         emojicons
-// @version      0.1.6
+// @version      0.1.7
 // @author       abernier
 // @namespace    name.abernier
 // @description  Custom emojis favicons for the www
@@ -24,10 +24,11 @@ function getHref(emoji) {
 
 const emojis = {
     // Perso
-    'docs.google.com/spreadsheets/d/1HqjvTl0ONss9lQnmEAcEbGaTNJ7W-oupCmkG_cdbQJo/edit': '💶',
+    'docs.google.com/spreadsheets/d/1HqjvTl0ONss9lQnmEAcEbGaTNJ7W-oupCmkG_cdbQJo/edit': '🧾',
     'docs.google.com/spreadsheets/d/1SV7fxA7ZOnxgHgmgMLa-HD2awOKQXCPVu-vt8OoGXmE/edit': '💰',
 
     // Ironhack
+    'https://preview.my.ironhack.com/lms/courses/course-v1:IRONHACK+WDPT+202006_PAR': '📓',
     'my.ironhack.com': '📘',
     'campus-tools.ironhack.com': '🏫',
     'docs.google.com/spreadsheets/d/1EdyLktmJA36Fzeug8NwrTQjUDt4C9wB2eoqs9E6kXK0/edit': '🗂', // wdpt202102par outline spreadsheet
