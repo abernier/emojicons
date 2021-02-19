@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         emojicons
-// @version      0.1.4
+// @version      0.1.5
 // @author       abernier
 // @namespace    name.abernier
 // @description  Custom emojis favicons for the www
 // @include      /^https?:\/\/.*/
 // @grant        none
 // @homepage     https://github.com/abernier/emojicons
-// @updateURL    https://github.com/abernier/emojicons/raw/master/emojicons.user.js
-// @downloadURL  https://github.com/abernier/emojicons/raw/master/emojicons.user.js
+// @updateURL    https://github.com/abernier/emojicons/raw/main/emojicons.user.js
+// @downloadURL  https://github.com/abernier/emojicons/raw/main/emojicons.user.js
 // @supportURL   https://github.com/abernier/emojicons/issues
 // ==/UserScript==
 
