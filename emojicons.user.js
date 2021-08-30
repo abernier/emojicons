@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         emojicons
-// @version      0.1.7
+// @version      0.1.8
 // @author       abernier
 // @namespace    name.abernier
 // @description  Custom emojis favicons for the www
@@ -32,7 +32,8 @@ const emojis = {
     'my.ironhack.com': '📘',
     'campus-tools.ironhack.com': '🏫',
     'docs.google.com/spreadsheets/d/1EdyLktmJA36Fzeug8NwrTQjUDt4C9wB2eoqs9E6kXK0/edit': '🗂', // wdpt202102par outline spreadsheet
-    'https://docs.google.com/spreadsheets/d/1VbLLrZr2NV_4z-SKUrdG9Ph2Ha_KfukXh52FNhy7slQ/edit#gid=199111880': '👯‍♀️', // ironpairs spreadsheet
+    'docs.google.com/spreadsheets/d/1wu1-sB3iT9oIuZh9K-4wsJ6ez82Qt_FG9BvTjSj0AlM/edit': '🗂', // wdpt202108par outline spreadsheet
+    'https://docs.google.com/spreadsheets/d/1VbLLrZr2NV_4z-SKUrdG9Ph2Ha_KfukXh52FNhy7slQ/edit': '👯‍♀️', // ironpairs spreadsheet
 }
 
 const _ = Object.keys(emojis).find(str => location.href.includes(str))
