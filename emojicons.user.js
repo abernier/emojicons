@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         emojicons
-// @version      0.1.8
+// @version      0.1.9
 // @author       abernier
 // @namespace    name.abernier
 // @description  Custom emojis favicons for the www
@@ -28,6 +28,7 @@ const emojis = {
     'docs.google.com/spreadsheets/d/1SV7fxA7ZOnxgHgmgMLa-HD2awOKQXCPVu-vt8OoGXmE/edit': '💰',
 
     // Ironhack
+    'https://preview.my.ironhack.com/lms/courses/course-v1:IRONHACK+WDPREWORK+MASTER': 📗',
     'https://preview.my.ironhack.com/lms/courses/course-v1:IRONHACK+WDPT+202006_PAR': '📓',
     'my.ironhack.com': '📘',
     'campus-tools.ironhack.com': '🏫',
